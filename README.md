@@ -1,3 +1,6 @@
+Đường dẫn tới notebook trên colab:  
+https://colab.research.google.com/github/myus3rnam3159/DemoVectoDonGian/blob/master/vector.ipynb
+
 vector.ipynb: demo về vector cơ bản trong numpy  
 
 vector trong python là một mảng 1 chiều:  
